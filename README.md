@@ -1,8 +1,8 @@
 # Smart Trip Budget Planner
  
-**Student Name:** Sara sultan Alharthi  
-**Student ID:** 1909093  
- 
+**Students Name:** Sara sultan Alharthi, Norah mohasen aldosari
+**Students ID:** 1909093, 2206145
+
 ---
 
 ## Project Overview
@@ -98,7 +98,7 @@ npm run dev
 
 ## External API
 
-I used the **[Open Exchange Rates API](https://open.er-api.com)** for live currency conversion.
+We used the **[Open Exchange Rates API](https://open.er-api.com)** for live currency conversion.
 
 - **Endpoint used:** `https://open.er-api.com/v6/latest/{currency}`
 - If an expense is entered in a currency different from the trip's base currency, the app fetches the latest rate and converts the amount before saving.
