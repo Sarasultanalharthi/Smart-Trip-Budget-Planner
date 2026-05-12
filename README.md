@@ -67,7 +67,7 @@ src/
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/sszalharthi5-ops/Smart-Trip-Budget-Planner.git
+git clone https://github.com/Sarasultanalharthi/Smart-Trip-Budget-Planner.git
 cd SmartTripPlanner
 ```
 
